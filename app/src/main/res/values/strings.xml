@@ -1,0 +1,41 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Learn Runyankole</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+    <string-array name="runyankole_words">
+        <item>Emwe</item>
+        <item>Ibiri</item>
+        <item>Ishatu</item>
+        <item>Ina</item>
+        <item>Itaano</item>
+        <item>Mukaaga</item>
+        <item>Mushanju</item>
+        <item>Munaana</item>
+        <item>Mwenda</item>
+        <item>Ikumi</item>
+    </string-array>
+
+    <string-array name="english_words">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+    </string-array>
+</resources>
