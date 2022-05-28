@@ -25,6 +25,7 @@ public class PhrasesActivity extends AppCompatActivity {
         myWords.add(new Word("Ninyenda Kurya", "I want to eat", R.raw.phrases_iwanttoeat));
         myWords.add(new Word("Nokyiguza zingahi?", "How much money do you sell it?", R.raw.phrases_howmuchareyouselling));
         myWords.add(new Word("Iziina ryangye niinye Joseph", "My name is Joseph", R.raw.phrases_myname));
+        myWords.add(new Word("Nooza nkahi?", "Where are you going?", R.raw.phrases_myname));
 
         //create the object of wordadapter
         WordAdapter wordAdapter = new WordAdapter(this,myWords, R.color.category_numbers);
